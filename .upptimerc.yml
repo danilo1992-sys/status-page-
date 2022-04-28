@@ -1,16 +1,17 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: danilo1992-sys # Your GitHub organization or username, where this repository lives
+repo: status-page- # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Portafolio
+    url: https://sleepy-bastion-60724.herokuapp.com
+  - name: Mailer aap
+    url: https://stormy-badlands-16877.herokuapp.com
+  - name: DCbooks
+    url: https://danilo1992-sys.github.io/DCbooks/
+
+assignees:
+  danilo1992-sys
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
